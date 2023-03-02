@@ -47,6 +47,17 @@ Thought Routes - a user can create a thought, get all thoughts or a single thoug
 
 
 ## Images of Deployed Application<br>
+Please  to see all images follow by public/assets folder<br>
+![alt text](public/assets/Screenshot_20230301_110757.png)
+![alt text](public/assets/Screenshot_20230301_110826.png)
+![alt text](public/assets/Screenshot_20230301_110851.png)
+![alt text](public/assets/Screenshot_20230301_114214.png)
+![alt text](public/assets/Screenshot_20230301_114232.png)
+![alt text](public/assets/Screenshot_20230301_114250.png)
+![alt text](public/assets/Screenshot_20230301_114309.png)
+![alt text](public/assets/Screenshot_20230301_114321.png)
+
+
 # Relevant Links
-## Video Link :<br>
+## Video Link :https://drive.google.com/file/d/15ZNxt2uUDerpQNOnKNI6dAghRpDKV05_/view
 ## Github Repo:
