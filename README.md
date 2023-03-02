@@ -15,7 +15,7 @@ To create seed data and test the API routes, use Insomnia.<br>
 This is a social network API that uses MongoDB, a NoSQL database, which allows the website to handle large amounts of unstructured data.
 
 When the command to invoke the application is entered, the Mongoose models are synced to the MongoDB database.
-## add images
+
 When API GET routes for users and thoughts are opened in Insomnia, the data for each of the routes is displayed in formatted JSON.
 
 User, Friend, Thought, and Reaction routes are created to create the database and test the API on Insomnia.
